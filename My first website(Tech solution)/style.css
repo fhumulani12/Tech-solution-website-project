@@ -1,0 +1,123 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav-menu{
+    justify-content: space-between;
+    display: flex;
+
+}
+.nav-menu .ul li a{
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+    font-family: nun;
+    font-weight: bold;
+    font-size: 24;
+    transition: 0.8s;
+   
+   
+
+   
+}
+.nav-menu .ul{
+    list-style: none;
+    display: flex;
+  
+   
+    
+}
+.nav{
+    padding-top: 40px;
+   display: flex;
+   
+    
+
+}
+.logo{
+    padding-left: 50px;
+    font-size: 40px;
+
+}
+.btn{
+    color: white;
+    background-color: rgb(18, 103, 168);
+    border: none;
+    border-radius: 11px;
+    margin-left: 350px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    
+}
+.logo span{
+    color: rgb(18, 103, 168);
+}
+.nav-menu .ul li a:hover{
+    color: rgb(18, 103, 168);
+}
+.btn:hover{
+    background-color:rgb(67, 23, 67);
+}
+.ul{
+     padding-top: 17px;
+     font-family:url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Source+Sans+Pro:wght@200&display=swap');
+}
+
+img{
+    padding-top: 50px;
+    float: right;
+    padding-right: 300px;
+    margin: 50px;
+    height: 400px;
+
+}
+.Main {
+    padding-top: 100px;
+    margin-left: 65px;
+    margin-bottom: 30px;
+    
+}
+.btn2{
+    color: white;
+    background-color: rgb(18, 103, 168);
+    border: none;
+    border-radius: 11px;
+    margin-top: 50px;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    
+}
+.btn2:hover{
+    background-color:rgb(67, 23, 67);
+}
+.mainh1{
+    font-size: 70px;
+}
+.mainp{
+    margin-top: 60px;
+    font-size: 25px;
+}
+.main2{
+
+    background-color: rgb(18, 103, 168);
+    color: white;
+    margin-top: 170x;
+    padding-bottom: 300px;
+    text-align: center;
+    align-content: center;
+}
+
+.para{
+    margin-top: 200px;  
+    font-size: 30px;
+}
